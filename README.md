@@ -55,7 +55,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 📦 clustering-comparison-kmeans-vs-cmeans/
 ├── 📄 README.md
 ├── 📓 clustering_comparison.ipynb
-├── 📊 images/ (optional - for cluster plots)
+
 
 
 📬 Contact

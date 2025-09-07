@@ -61,7 +61,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score
 📬 Contact
 Feel free to reach out if you'd like to collaborate, discuss clustering methods, or need help extending this project:
 
-Your Name
+Amirali Azimi
 📧 Amiroo.azm81@gmail.com
 🌐 https://www.linkedin.com/in/amirali-azimi2002/
 
